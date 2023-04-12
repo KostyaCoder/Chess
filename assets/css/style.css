@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-size: 0;
+  width: 500px;
+  height: 500px;
+}
+
+.elem {
+  display: inline-block;
+  border: 2px solid rgb(0, 0, 0);
+  width: 33%;
+  height: 33%;
+}
+
+.elemWhie {
+  background-color: white;
+}
+
+.elemBlue {
+  background-color: dodgerblue;
+}
